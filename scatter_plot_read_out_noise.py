@@ -51,7 +51,7 @@ def main(**kwargs):
     plt.show()
     fig.savefig(out_file)
 
-    print(folder_list)
+#    print(folder_list)
 #    pic_list = list_files(p)
 ##    print(pic_list)
 #    pic_px_av = []
